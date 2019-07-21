@@ -9,9 +9,14 @@ body {
     margin: 0 auto;
 }
 
+h1 {
+    text-align: center;
+}
+
 .TodoList {
     background-color: #fff;
     padding: 20px;
+    border: 2px solid;
 }
 
 .TodoItem {
